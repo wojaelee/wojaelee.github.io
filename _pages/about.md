@@ -13,7 +13,7 @@ redirect_from:
 </p>
 
 # Who am I?
-* I am a Ph.D. candidate at Purdue University, advised by Prof. [John W. Sutherland (https://engineering.purdue.edu/LSM/people/jws). [[Google Scholar](https://scholar.google.com/citations?user=_j_0jLYg2kcC&hl=en)]
+* I am a Ph.D. candidate at Purdue University, advised by Prof. [John W. Sutherland] (https://engineering.purdue.edu/LSM/people/jws). [[Google Scholar](https://scholar.google.com/citations?user=_j_0jLYg2kcC&hl=en)]
 * My research interests lie in the general area of machine learning, particularly in deep learning, reinforcement learning and probabilistic graphical models, as well as their applications in sequential decision making, generative modeling, multi-task and meta-learning and multi-agent systems.
 * I received my Bachelor’s Degree in [Korea University](http://www.korea.edu/).
 
