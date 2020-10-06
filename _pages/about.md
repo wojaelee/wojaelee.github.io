@@ -23,7 +23,12 @@ B.S.  Civil, Environmental and Architectural Engineering, Korea University, 2015
 Exchange Program: George Washington University (2014) and Hong Kong University of Science and Technology (2015)
 
 # Work Experience
+Research Assistant, Purdue University, Aug 2016 - present
 Applied Scinetist Intern, Amazon Web Service AI, May 2020 - Aug 2020
+
+Rearch Intern, Korea Institute of Science and Technology (KIST), Jun 2014 - Aug 2014
+KATUSA, United States Army Yongsan Garrison, June 2011 - Mar 2013
+
 
 # Career 
 I am developing a broad understanding of engineering and gaining a wide variety of smart manufacturing experience through collaborations with other researchers and local manufacturing companies. I currently work as a research assistant funded by “In-Mac” (Indiana Next Generation Manufacturing Competitiveness Center). I am involved in “WHIN” (Wabash Heartland Innovation Network) project, whose vision is to make the Wabash Heartland (10-county region in the state of Indiana) the global epicenter for next-generation manufacturing empowered by smart “Internet of Things” platforms. My recent research at Purdue is to build a deep learning enabled predictive maintenance (PdM) monitoring system to detect mechanical defects and forecast remaining useful life (i.e., time to failure) under dynamic operational conditions (e.g., variable rotational speed). I collaborate with several local companies to decrease the cost of downtime and to increase the utilization of manufacturing equipment using the PdM monitoring system. I have acquired skills in Machine/Deep Learning, Anomaly Detection, Multivariate Time-series Analysis, Statistical Process Control, Design of Experiments, Stochastic Modelling, Statistical Analysis and Modeling, Digital Signal Processing, Process Design, Design for Manufacturability, Life Cycle Assessment, CATIA, LabVIEW, Python, and Matlab.
