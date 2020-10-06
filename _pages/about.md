@@ -23,11 +23,11 @@ B.S.  Civil, Environmental and Architectural Engineering, Korea University, 2015
 Exchange Program: George Washington University (2014) and Hong Kong University of Science and Technology (2015)
 
 # Work Experience
-Research Assistant, Purdue University, Aug 2016 - present
-Applied Scinetist Intern, Amazon Web Service AI, May 2020 - Aug 2020
+Research Assistant, Purdue University, West Lafayette, IN Aug 2016 - present\
+Applied Scinetist Intern, Amazon Web Service AI, Palo Alto, CA May 2020 - Aug 2020\
 
-Rearch Intern, Korea Institute of Science and Technology (KIST), Jun 2014 - Aug 2014
-KATUSA, United States Army Yongsan Garrison, June 2011 - Mar 2013
+Rearch Intern, Korea Institute of Science and Technology (KIST), Seoul, ROK, Jun 2014 - Aug 2014\
+KATUSA, United States Army Yongsan Garrison, Seoul, ROK, June 2011 - Mar 2013\
 
 
 # Career 
