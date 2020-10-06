@@ -18,10 +18,10 @@ Hello, My name is Wo Jae Lee. I am currently a PhD candidate at Purdue Universit
 </p>
 
 # Education
-Ph.D. Environmental, Purdue University, 2016 – present\
-M.S. Electrical and Computer Engineering, Purdue University, 2020 – present \
-M.S. Electronic Engineering, Huazhong University of Science and Technology, 2016\
-B.S. Civil Engineering, Wuhan University of Science and Technology, 2013
+Ph.D. Environmental Engineering, Purdue University, 2016 – present\
+M.S.  Mechanical Engineering, Purdue University, 2020\
+M.S.  Environmental Engineering, Purdue University, 2018\
+B.S.  Civil, Environmental and Architectural Engineering, Korea University, 2015
 
 # Work Experience
 
