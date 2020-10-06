@@ -25,6 +25,6 @@ Exchange Program: George Washington University (2014) and Hong Kong University o
 # Work Experience
 Research Assistant, Purdue University, West Lafayette, IN Aug 2016 - present\
 Applied Scinetist Intern, Amazon Web Service AI, Palo Alto, CA May 2020 - Aug 2020\
-Research Intern, Global Green Growth Institute, Abu Dhabi, UAE, Jan 2016 - June 2016\
+Research Intern, Global Green Growth Institute, Abu Dhabi, UAE, Jan 2016 - Jun 2016\
 Research Intern, Korea Institute of Science and Technology, Seoul, ROK, Jun 2014 - Aug 2014\
-KATUSA, United States Army Yongsan Garrison, Seoul, ROK, June 2011 - Mar 2013
+KATUSA, United States Army Yongsan Garrison, Seoul, ROK, Jun 2011 - Mar 2013
