@@ -20,8 +20,8 @@ Ph.D. Environmental Engineering, Purdue University, 2016 – present\
 M.S.  Mechanical Engineering, Purdue University, 2020\
 M.S.  Environmental Engineering, Purdue University, 2018\
 B.S.  Civil, Environmental and Architectural Engineering, Korea University, 2015\
-Education Abroad: Hong Kong University of Science and Technology, 2015\
-Education Abroad: George Washington University, 2014
+Exchange Program Hong Kong University of Science and Technology, 2015\
+Exchange Program George Washington University, 2014
 
 
 
