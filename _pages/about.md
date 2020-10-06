@@ -19,9 +19,9 @@ Hello, My name is Wo Jae Lee. I am currently a PhD candidate at Purdue Universit
 Ph.D. Environmental Engineering, Purdue University, 2016 – present\
 M.S.  Mechanical Engineering, Purdue University, 2020\
 M.S.  Environmental Engineering, Purdue University, 2018\
-Engineering Visiting Program, George Washington Univ. and Hong Kong Univ. of Sci. & Tech, 2014 – 2015\
-B.S.  Civil, Environmental and Architectural Engineering, Korea University, 2015
-
+B.S.  Civil, Environmental and Architectural Engineering, Korea University, 2015\
+Education Abroad: Hong Kong University of Science and Technology, 2015\
+Education Abroad: George Washington University, 2014
 
 
 
