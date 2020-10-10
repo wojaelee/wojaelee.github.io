@@ -30,7 +30,6 @@ Research Intern, Korea Institute of Science and Technology, Seoul, ROK, Jun 2014
 KATUSA, United States Army Yongsan Garrison, Seoul, ROK, Jun 2011 - Mar 2013
 
 # Honors and Awards
- # Recipient of Travel Grant to attend the Doctoral Symposium at the 11th Annual Conference of the Prognostics and Health Management (PHM) Society
  * Recipient of Travel Grant to attend the Doctoral Symposium at the 11th Annual Conference of the Prognostics and Health Management (PHM) Society
 
 
