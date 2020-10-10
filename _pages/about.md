@@ -31,5 +31,8 @@ Hello, My name is Wo Jae Lee. I am currently a PhD candidate at Purdue Universit
 
 # Honors and Awards
  * Recipient of Travel Grant to attend the Doctoral Symposium at the 11th Annual Conference of the Prognostics and Health Management (PHM) Society
+ * First place award from the Reusable Abstractions of Manufacturing Processes (RAMP) competition organized by the National Institute of Standards and Technology (NIST) and American Society of Mechanical Engineers (ASME)
+ *
+  
 
 
