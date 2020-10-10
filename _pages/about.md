@@ -32,7 +32,13 @@ Hello, My name is Wo Jae Lee. I am currently a PhD candidate at Purdue Universit
 # Honors and Awards
  * Recipient of Travel Grant to attend the Doctoral Symposium at the 11th Annual Conference of the Prognostics and Health Management (PHM) Society
  * First place award from the Reusable Abstractions of Manufacturing Processes (RAMP) competition organized by the National Institute of Standards and Technology (NIST) and American Society of Mechanical Engineers (ASME)
- *
-  
-
+ * NSF Student Travel Award to Attend the NSF-sponsored RAMP (Reusable Abstractions of Manufacturing Processes) Workshop (June 21, 2018)
+ * NSF Travel Award to Attend the 16th Global Conference on Sustainable Manufacturing
+ * Travel Grant from Purdue Graduate Student Government
+ * Research Assistantship from Indiana Next Generation Manufacturing Competitiveness Center, between 2016 and 2018
+ * Korean National Science & Engineering and Honors Scholarship, eight times, between 2009 and 2015
+ * Semester High Honors, three times, between 2009 and 2015
+ * Mirae Asset Exchange Student Scholarship for an outstanding student (Tuition, Flight, Stipend), 2015
+ * The Minister Award from Green Growth-Themed Thesis Competition by the Korean Foreign-Affairs, 2014
+ * Award from United States Department of Army by Lieutenant General Bernard S. Champoux (3 Star General), USA Commanding General, 2013
 
