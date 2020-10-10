@@ -16,11 +16,11 @@ redirect_from:
 Hello, My name is Wo Jae Lee. I am currently a PhD candidate at Purdue University, adviced by Prof. [John W. Sutherland](https://engineering.purdue.edu/LSM/people/jws) [[Google Scholar](https://scholar.google.com/citations?user=_j_0jLYg2kcC&hl=en)]. I am pursuing dual degrees in Environmental Engineering and Mechanical Engineering. I have been involved in various state-of-the-art research projects, and recent project includes a smart manufacturing project, in which I deliver a machine learning model to increase operational uptime in manufacturing plants. I have experience in the data field from data collection (large-scale manufacturing data), data preprocessing, data-driven model development/validation to deployment. My reserach intersts incldue Machine/Deep Learning, Predictive Maintenance, Anomaly Detection, and Prognostics and Health Management.
 
 # Education
-Ph.D. Environmental Engineering, Purdue University, 2016 – present\
-M.S.  Mechanical Engineering, Purdue University, 2020\
-M.S.  Environmental Engineering, Purdue University, 2018\
-B.S.  Civil, Environmental and Architectural Engineering, Korea University, 2015\
-Exchange Program: George Washington University (2014) and Hong Kong University of Science and Technology (2015)
+ * Ph.D. Environmental Engineering, Purdue University, 2016 – present\
+ * M.S.  Mechanical Engineering, Purdue University, 2020\
+ * M.S.  Environmental Engineering, Purdue University, 2018\
+ * B.S.  Civil, Environmental and Architectural Engineering, Korea University, 2015\
+ * Exchange Program: George Washington University (2014) and Hong Kong University of Science and Technology (2015)
 
 # Work Experience
  * Research Assistant, Purdue University, West Lafayette, IN Aug 2016 - present
