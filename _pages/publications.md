@@ -7,7 +7,7 @@ author_profile: true
 
 
 
-<b>[An experimental study on the energy consumption and emission profile of fused deposition modeling process](https://wojaelee.github.io/publications/1.simon(2018))</b> <br>
+<b>[An experimental study on the energy consumption and emission profile of fused deposition modeling process](https://wojaelee.github.io/publications/1.Simon(2018))</b> <br>
 Simon, T. R., <b>Lee, W. J.</b>, Spurgeon, B. E., Boor, B. E., and Zhao, F. <i>46th SME North American Manufacturing Research Conference</i>.
 
 
