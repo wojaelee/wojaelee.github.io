@@ -1,6 +1,7 @@
 ---
 title: "An experimental study on the energy consumption and emission profile of fused deposition modeling process"
 collection: publications
+permalink: /publication/2009-10-01-paper-title-number-1
 date: 2018/1/1
 venue: '46th SME North American Manufacturing Research Conference, NAMRC 46, Texas, USA'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S2351978918307959'
