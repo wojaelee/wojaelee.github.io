@@ -15,7 +15,7 @@ Yildirim, A., Grant J., Eshaghi, S., <b>Lee, W.</b>, Maruthamuthu, M., Verma, M.
 <b>Lee, W. J.</b>, Wu, H., Huang, A., and Sutherland, J. W., 2020, <i>Proceedings of the 8th International Conference on Through-Life Engineering Services</i>
 
 <b>[Development and Application of a Method for Real Time Motor Fault Detection](https://www.sciencedirect.com/science/article/pii/S2351978920316541)</b> <br>
-<b>Lee, W. J.</b>, Wu, H., Yun, H., Kim, H., Jun, M. B.G., and Sutherland, J. W., 2020, <i>Proceedings of the 8th International Conference on Through-Life Engineering Services</i>
+Joung, B. G., <b>Lee, W. J.</b>, Huang, A., and Sutherland, J. W., 2020, <i>Proceedings of the 8th International Conference on Through-Life Engineering Services</i>
 
 <b>[Monitoring of a Machining Process using Multi Level Kernel Principal Component Analysis and Kernel Density Estimation](https://link.springer.com/article/10.1007/s10845-019-01504-w)</b> <br>
 <b>Lee, W. J.</b>,  Mendis, G., Triebe., M., and Sutherland, J. W., 2020, <i>Journal of Intelligent Manufacturing</i>
