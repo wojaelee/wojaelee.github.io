@@ -8,7 +8,7 @@ author_profile: true
 
 
 <b>[An experimental study on the energy consumption and emission profile of fused deposition modeling process](https://www.sciencedirect.com/science/article/pii/S2351978918307959)</b> <br>
-Simon, T. R., <b>Lee, W. J.</b>, Spurgeon, B. E., Boor, B. E., and Zhao, F. <i>46th SME North American Manufacturing Research Conference</i>.'
+Simon, T. R., <b>Lee, W. J.</b>, Spurgeon, B. E., Boor, B. E., and Zhao, F. <i>46th SME North American Manufacturing Research Conference</i>.
 
 
 
