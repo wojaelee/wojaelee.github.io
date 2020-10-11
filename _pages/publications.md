@@ -6,7 +6,7 @@ author_profile: true
 
 
 <b>[Roll-to-Roll (R2R) Production of Large-Area High-Performance Piezoelectric Films Based on Vertically Aligned Nanocolumn Forests](https://onlinelibrary.wiley.com/doi/abs/10.1002/admt.202000553)</b> <br>
-<b>Yildirim, A., Grant J., Eshaghi, S., <b>Lee, W.</b>, Maruthamuthu, M., Verma, M., Sutherland, J. W., Cakmak, M., 2020, <i>Proceedings of the 8th International Conference on Through-Life Engineering Services</i>
+Yildirim, A., Grant J., Eshaghi, S., <b>Lee, W.</b>, Maruthamuthu, M., Verma, M., Sutherland, J. W., Cakmak, M., 2020, <i>Proceedings of the 8th International Conference on Through-Life Engineering Services</i>
 
 <b>[A Development of Speed Invariant Deep Learning Model with Application to Condition Monitoring of Rotating Machinery](https://link.springer.com/article/10.1007/s10845-020-01578-x)</b> <br>
 <b>Lee, W. J.</b>, Xia, K., Denton, N., Ribeiro, B., Sutherland, J. W., 2020, <i>Proceedings of the 8th International Conference on Through-Life Engineering Services</i>
