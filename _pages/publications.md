@@ -4,7 +4,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+Yildirim, A., Grant J., Eshaghi, S., Lee, W., Maruthamuthu, M., Verma, M., Sutherland, J. W., Cakmak, M., 2020, “Roll-to-Roll (R2R) Production of Large-Area High-Performance Piezoelectric Films Based on Vertically Aligned Nanocolumn Forests,” Advanced Materials Technologies
 
+<b>[Roll-to-Roll (R2R) Production of Large-Area High-Performance Piezoelectric Films Based on Vertically Aligned Nanocolumn Forests](https://onlinelibrary.wiley.com/doi/abs/10.1002/admt.202000553)</b> <br>
+<b>Yildirim, A., Grant J., Eshaghi, S., <b>Lee, W.</b>, Maruthamuthu, M., Verma, M., Sutherland, J. W., Cakmak, M., 2020, <i>Proceedings of the 8th International Conference on Through-Life Engineering Services</i>
 
 
 
