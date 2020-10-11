@@ -4,23 +4,18 @@ permalink: /publications/
 author_profile: true
 ---
 
-Yildirim, A., Grant J., Eshaghi, S., Lee, W., Maruthamuthu, M., Verma, M., Sutherland, J. W., Cakmak, M., 2020, “Roll-to-Roll (R2R) Production of Large-Area High-Performance Piezoelectric Films Based on Vertically Aligned Nanocolumn Forests,” Advanced Materials Technologies
 
 <b>[Roll-to-Roll (R2R) Production of Large-Area High-Performance Piezoelectric Films Based on Vertically Aligned Nanocolumn Forests](https://onlinelibrary.wiley.com/doi/abs/10.1002/admt.202000553)</b> <br>
 <b>Yildirim, A., Grant J., Eshaghi, S., <b>Lee, W.</b>, Maruthamuthu, M., Verma, M., Sutherland, J. W., Cakmak, M., 2020, <i>Proceedings of the 8th International Conference on Through-Life Engineering Services</i>
 
-
-
 <b>[A Development of Speed Invariant Deep Learning Model with Application to Condition Monitoring of Rotating Machinery](https://link.springer.com/article/10.1007/s10845-020-01578-x)</b> <br>
 <b>Lee, W. J.</b>, Xia, K., Denton, N., Ribeiro, B., Sutherland, J. W., 2020, <i>Proceedings of the 8th International Conference on Through-Life Engineering Services</i>
-
 
 <b>[Learning via Acceleration Spectrograms of DC Motor System with Application to Condition Monitoring](https://link.springer.com/article/10.1007/s00170-019-04563-8)</b> <br>
 <b>Lee, W. J.</b>, Wu, H., Huang, A., and Sutherland, J. W., 2020, <i>Proceedings of the 8th International Conference on Through-Life Engineering Services</i>
 
 <b>[Development and Application of a Method for Real Time Motor Fault Detection](https://www.sciencedirect.com/science/article/pii/S2351978920316541)</b> <br>
 <b>Lee, W. J.</b>, Wu, H., Yun, H., Kim, H., Jun, M. B.G., and Sutherland, J. W., 2020, <i>Proceedings of the 8th International Conference on Through-Life Engineering Services</i>
-
 
 <b>[Monitoring of a Machining Process using Multi Level Kernel Principal Component Analysis and Kernel Density Estimation](https://link.springer.com/article/10.1007/s10845-019-01504-w)</b> <br>
 <b>Lee, W. J.</b>,  Mendis, G., Triebe., M., and Sutherland, J. W., 2020, <i>Journal of Intelligent Manufacturing</i>
