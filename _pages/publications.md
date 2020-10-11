@@ -8,7 +8,8 @@ author_profile: true
 
 Lee, W. J., Wu, H., Yun, H., Kim, H., Jun, M. B.G., and Sutherland, J. W., 2019, “Predictive Maintenance of Machine Tool Systems Using Artificial Intelligence Techniques Applied to Machine Condition Data,” 26th CIRP Life Cycle Engineering (LCE) Conference
 
-Lee, W. J., and Sutherland, J. W., 2019, “Deep Learning Enable Diagnostics and Prognostics of Machine Health Condition,” 2019 Annual Conference of the Prognostics and Health Management Society
+<b>[Predictive Maintenance of Machine Tool Systems Using Artificial Intelligence Techniques Applied to Machine Condition Data](https://www.sciencedirect.com/science/article/pii/S2212827118312988)</b> <br>
+<b>Lee, W. J.</b> Wu, H., Yun, H., Kim, H., Jun, M. B.G., and Sutherland, J. W., 2019, <i>Proceedings of the 26th CIRP Conference on Life Cycle Engineering (LCE)</i>
 
 <b>[Deep Learning Enable Diagnostics and Prognostics of Machine Health Condition](http://www.phmpapers.org/index.php/phmconf/article/view/919)</b> <br>
 <b>Lee, W. J.</b> and Sutherland, J. W., 2019, <i>Proceedings of the Annual Conference of the PHM Society</i>
